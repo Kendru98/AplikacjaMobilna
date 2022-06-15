@@ -1,4 +1,4 @@
-# moja_apka
+# moja_apka - My first app in flutter
 
 A new Flutter project.
 
